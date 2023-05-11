@@ -3,9 +3,7 @@
 
 - 📫 How to reach me **edem.fiifi.dawson@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BQ5pkB02iEzfjOKVLpQbwpcO4K6lmlao/view?usp=sharing](https://drive.google.com/file/d/1BQ5pkB02iEzfjOKVLpQbwpcO4K6lmlao/view?usp=sharing)
-
-- ⚡ Fun fact **I love lofi music and classical music**
+- ⚡ Fun fact **I love classical music and I play chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
