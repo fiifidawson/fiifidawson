@@ -7,6 +7,7 @@ Hey there, thanks for stopping by! Welcome to my GitHub repository. I'm currentl
 In the meantime, you can follow me on my social media channels for updates and sneak peeks:
 
 🐦 Twitter: [fiifidawson](https://twitter.com/fiifi_dawson_)
+
 💼 LinkedIn: [edemdawson](https://www.linkedin.com/in/edem-dawson/)
 
 If you have any questions or want to get in touch with me, feel free to shoot me an email at [edem.fiifi.dawson@gmail.com](mailto:edem.fiifi.dawson@gmail.com).
