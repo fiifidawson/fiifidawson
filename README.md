@@ -1,17 +1,20 @@
-# 🚧 Under Construction 👷
+# 🚧 Under Construction 👷‍♂️👷‍♀️
 
-Hey there, thanks for stopping by! Welcome to my GitHub repository. I'm currently working hard to bring you something awesome, but it's still under construction.
+Hello and welcome to my GitHub repository! Thanks for stopping by. I'm currently working hard on some exciting projects, but this page is still under construction.
 
-👷‍♂️ Feel free to bookmark this page and come back later to check out the progress. I promise it'll be worth the wait! 👷‍♀️
+🔨 **Stay Tuned!**  
+Feel free to star this page and check back later to see the progress. I promise it will be worth the wait!
 
-In the meantime, you can follow me on my social media channels for updates and sneak peeks:
+📢 **Stay Connected!**  
+In the meantime, follow me on my social media for updates and sneak peeks:
 
-🐦 Twitter(X): [fiifidawson](https://x.com/FiifiDawson_)
+- 🐦 **Twitter(X)**: [@FiifiDawson_](https://x.com/FiifiDawson_)
+- 💼 **LinkedIn**: [Edem Dawson](https://www.linkedin.com/in/edem-dawson/)
 
-💼 LinkedIn: [edemdawson](https://www.linkedin.com/in/edem-dawson/)
+📧 **Get in Touch!**  
+If you have any questions or want to reach out, feel free to email me at [edem.fiifi.dawson@gmail.com](mailto:edem.fiifi.dawson@gmail.com).
 
-If you have any questions or want to get in touch with me, feel free to shoot me an email at [edem.fiifi.dawson@gmail.com](mailto:edem.fiifi.dawson@gmail.com).
+Thank you for your patience. I can't wait to share what I've been working on!
 
-Thank you for your patience, and I can't wait to show you what I've been working on!
 
 
