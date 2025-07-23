@@ -1,6 +1,6 @@
 # 🚧 Under Construction 👷‍♂️👷‍♀️
 
-Hello and welcome to my GitHub repository! Thanks for stopping by. I'm currently working hard on some exciting projects, but this page is still under construction.
+Hello and welcome to my GitHub repository! Thanks for stopping by. I'm currently working on some exciting projects, but this page is still under construction.
 
 🔨 **Stay Tuned!**  
 Feel free to star this page and check back later to see the progress. I promise it will be worth the wait!
