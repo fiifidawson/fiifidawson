@@ -1,4 +1,4 @@
-## Hóla!
+## Hóla!👋
 - I'm Fiifi.
 - I'm currently working on drug discovery at [minoHealth AI Labs](https://www.minohealth.ai/blog/category/research)🧬.
   
