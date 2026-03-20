@@ -7,8 +7,6 @@
 - **LinkedIn**: [Edem Dawson](https://www.linkedin.com/in/edem-dawson/)
 - **Email**: [edem.fiifi.dawson@gmail.com](mailto:edem.fiifi.dawson@gmail.com)
 
-Merci! 
-
-
-
-
+### building..
+- athena.: ml drug discovery pipeline()
+- s.a.r.r.a: robotic arm for physio therapy()
