@@ -8,5 +8,5 @@
 - **Email**: [edem.fiifi.dawson@gmail.com](mailto:edem.fiifi.dawson@gmail.com)
 
 ### building...
-- **athena.**: ml drug discovery pipeline (https://athena-gilt-ten.vercel.app/)
-- **S.A.R.R.A**: robotic arm for rehab(https://s-a-r-r-a.vercel.app/)
+- **athena.**: ML drug discovery pipeline (https://athena-gilt-ten.vercel.app/)
+- **S.A.R.R.A**: Robotic hand for rehab(https://s-a-r-r-a.vercel.app/)
