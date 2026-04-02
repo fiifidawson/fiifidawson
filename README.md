@@ -1,6 +1,7 @@
 ## hóla!👋
 - I'm Fiifi.
-- I'm currently working on drug discovery at [minoHealth AI Labs](https://www.minohealth.ai/blog/category/research)🧬.
+- I'm currently working on drug discovery at [minoHealth AI Labs](https://www.minohealth.ai/blog/category/research)🧬
+- also working on agora at [EPFL - LiGHT](https://www.light-laboratory.org/)
   
 ### where to find me...
 - **Twitter(X)**: [@FiifiDawson_](https://x.com/FiifiDawson_)
