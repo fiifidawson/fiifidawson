@@ -1,5 +1,5 @@
 ## hóla!👋
-- I'm Fiifi.
+- I'm Fiifi, and a Christian.
 - I'm currently working on drug discovery at [minoHealth AI Labs](https://www.minohealth.ai/blog/category/research)🧬
 - also working on agora at [EPFL - LiGHT](https://www.light-laboratory.org/)
   
