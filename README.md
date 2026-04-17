@@ -10,6 +10,6 @@
 
 ### building...
 - **athena.**: ML drug discovery pipeline [athena.](https://athena-gilt-ten.vercel.app/)
-- **S.A.R.R.A**: Robotic hand for rehab [s.a.r.r.a](https://s-a-r-r-a.vercel.app/)
+- **S.A.R.R.A**: Robotic hand for rehab [s.a.r.r.a](https://sarra.nine.vercel.app/)
 
 "I will be a hummingbird" ~ Wangari Maathai
