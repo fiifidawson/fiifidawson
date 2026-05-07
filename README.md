@@ -1,4 +1,4 @@
-## hóla!👋
+## hi!👋
 - I'm Fiifi.
 - I'm currently working on drug discovery at [minoHealth AI Labs](https://www.minohealth.ai/blog/category/research)🧬
 - working on agora & CHITCHAT at [EPFL - LiGHT](https://www.light-laboratory.org/)
