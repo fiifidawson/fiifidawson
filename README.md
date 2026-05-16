@@ -1,5 +1,5 @@
-## hi!👋
-- I'm Fiifi.
+## hey!
+- I'm [Fiifi](https://fiifidawson.com/).
 - I'm currently working on drug discovery at [minoHealth AI Labs](https://www.minohealth.ai/blog/category/research)🧬
 - working on agora & CHITCHAT at [EPFL - LiGHT](https://www.light-laboratory.org/)
   
