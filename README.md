@@ -8,7 +8,7 @@
 - **LinkedIn**: [Fiifi Dawson](https://www.linkedin.com/in/edem-dawson/)
 - **Email**: [edem.fiifi.dawson@gmail.com](mailto:edem.fiifi.dawson@gmail.com)
 
-### building...
+### building[...](https://jax-ml.github.io/scaling-book/)
 - **athena.**: ML drug discovery pipeline [athena.](https://athena-gilt-ten.vercel.app/)
 - **S.A.R.R.A**: Robotic hand for rehab [s.a.r.r.a](https://sarra-nine.vercel.app/)
 
