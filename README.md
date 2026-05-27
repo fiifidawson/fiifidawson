@@ -3,7 +3,7 @@
 - I'm currently working on drug discovery at [minoHealth AI Labs](https://www.minohealth.ai/blog/category/research)🧬
 - working on agora & CHITCHAT at [EPFL - LiGHT](https://www.light-laboratory.org/)
   
-### where to find me[...](https://yewjin.substack.com/s/what-yj-thinks-about-life)
+### [where](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher) to find me[...](https://yewjin.substack.com/s/what-yj-thinks-about-life)
 - **Twitter(X)**: [@FiifiDawson_](https://x.com/FiifiDawson_)
 - **LinkedIn**: [Fiifi Dawson](https://www.linkedin.com/in/edem-dawson/)
 - **Email**: [edem.fiifi.dawson@gmail.com](mailto:edem.fiifi.dawson@gmail.com)
