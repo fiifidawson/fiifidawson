@@ -10,6 +10,6 @@
 
 ### building[...](https://jax-ml.github.io/scaling-book/)
 - **athena.**: ML drug discovery pipeline [athena.](https://athena-gilt-ten.vercel.app/)
-- **S.A.R.R.A**: Robotic hand for rehab [s.a.r.r.a](https://sarra-nine.vercel.app/)
+- **S.A.R.R.A**: [Robotic](https://ruixu.us/posts/six-things-robotics-startup) hand for rehab [s.a.r.r.a](https://sarra-nine.vercel.app/)
 
-"I will be a hummingbird" ~ Wangari Maathai
+"I will be a [hummingbird](https://pub.sakana.ai/Unofficial_Guide/)" ~ Wangari [Maathai](https://cs.stanford.edu/people/karpathy/advice.html)
