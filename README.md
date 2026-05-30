@@ -3,8 +3,9 @@
 - I'm currently working on drug discovery at [minoHealth AI Labs](https://www.minohealth.ai/blog/category/research)🧬
   
 ## whe[re](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher) to find me[...](https://yewjin.substack.com/s/what-yj-thinks-about-life)
-- **Twitter(X)**: [@FiifiDawson_](https://x.com/FiifiDawson_)
-- **LinkedIn**: [Fiifi Dawson](https://www.linkedin.com/in/edem-dawson/)
+- **Website**: [fiifidawson.com](https://fiifidawson.com/)
+- 🐦**Twitter**: [@FiifiDawson_](https://x.com/FiifiDawson_)
+- 🧨**LinkedIn**: [Fiifi Dawson](https://www.linkedin.com/in/edem-dawson/)
 
 ## building[...](https://jax-ml.github.io/scaling-book/)
 - **athena.**: ML drug discovery pipeline [athena.](https://athena-gilt-ten.vercel.app/)
