@@ -1,6 +1,6 @@
 ## hey[!](https://hacker-laws.com/)
 - I'm [Fiifi](https://fiifidawson.com/).
-- I'm currently working on drug discovery at [minoHealth AI Labs](https://www.minohealth.ai/blog/category/research)🧬
+- I'm currently working on drug discovery pipelines at [minoHealth AI Labs](https://www.minohealth.ai/blog/category/research)🧬
   
 ## whe[re](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher) to find me[...](https://yewjin.substack.com/s/what-yj-thinks-about-life)
 - **Website**: [fiifidawson.com](https://fiifidawson.com/)
