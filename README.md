@@ -9,7 +9,7 @@ I [cook](https://photos.app.goo.gl/B8jvdNTFvyL7KBCi8) and [touch grass](https://
 - 🐦**Twitter**: [@FiifiDawson_](https://x.com/FiifiDawson_)
 - 🧨**LinkedIn**: [Fiifi Dawson](https://www.linkedin.com/in/edem-dawson/)
 
-## building[...](https://jax-ml.github.io/scaling-book/)
+## mini projects[...](https://jax-ml.github.io/scaling-book/)
 - ML drug discovery pipeline - [athena.](https://athena-gilt-ten.vercel.app/)
 - Robotic hand for rehab - [s.a.r.r.a](https://sarra-nine.vercel.app/)
 
