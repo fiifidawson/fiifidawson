@@ -13,7 +13,7 @@ I [cook](https://photos.app.goo.gl/B8jvdNTFvyL7KBCi8) and [touch grass](https://
 - ML drug discovery pipeline - [athena.](https://athena-gilt-ten.vercel.app/)
 - Robotic hand for rehab - [s.a.r.r.a](https://sarra-nine.vercel.app/)
 
-"I will be a hummingbird" ~ Wangari Maathai
+"I will be a hummingbird"
 
 ## Cool Reads
 [I](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher) • [II](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) • [III](https://ruixu.us/posts/six-things-robotics-startup) • [IV](https://cs.stanford.edu/people/karpathy/advice.html) • [V](https://pub.sakana.ai/Unofficial_Guide/) • [VI](https://yewjin.substack.com/s/what-yj-thinks-about-life) • [VII](https://hacker-laws.com/) • [VIII](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) • [IX](https://silviasapora.github.io/blog/ml-interviews.html) • [X](https://alisawuffles.github.io/blog/job-search/)
