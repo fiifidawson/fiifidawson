@@ -1,6 +1,6 @@
 ## hey!
 - I'm [Fiifi](https://fiifidawson.com/).
-- I'm currently working on drug discovery pipelines at [minoHealth AI Labs](https://www.minohealth.ai/blog/category/research)🧬
+- Currently building drug discovery pipelines for AI agents at [minoHealth AI Labs](https://www.minohealth.ai/blog/category/research)🧬
 
 I [cook](https://photos.app.goo.gl/B8jvdNTFvyL7KBCi8) and [touch grass](https://photos.app.goo.gl/NYMt7uA5RUSmwqTR6)(sometimes).
 
