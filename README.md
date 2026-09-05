@@ -1,6 +1,8 @@
 ## hey!
 - I'm [Fiifi](https://fiifidawson.com/).
 - Currently building drug discovery pipelines for AI agents at [minoHealth AI Labs](https://www.minohealth.ai/blog/category/research)🧬
+- Wrapping up [Humani-T](https://chitchat-ui.vercel.app/) for [CHITCHAT](https://www.essentialtech.ch/projects/hac4).
+- Boolean Search & AI Screening modules in [mmore](https://github.com/EPFLiGHT/mmore/pull/319).
 
 I [cook](https://photos.app.goo.gl/B8jvdNTFvyL7KBCi8) and [touch grass](https://photos.app.goo.gl/NYMt7uA5RUSmwqTR6)(sometimes).
 
