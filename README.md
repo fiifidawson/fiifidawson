@@ -1,7 +1,7 @@
 ## hey!
 - I'm [Fiifi](https://fiifidawson.com/).
 - Wrapping up [Humani-T](https://chitchat-ui.vercel.app/) for [CHITCHAT](https://www.essentialtech.ch/projects/hac4).
-- Boolean Search & AI Screening modules in [mmore](https://github.com/EPFLiGHT/mmore/pull/319).
+- open-source: [mmore](https://github.com/EPFLiGHT/mmore/pull/319).
 
 I [cook](https://photos.app.goo.gl/B8jvdNTFvyL7KBCi8) and [touch grass](https://photos.app.goo.gl/NYMt7uA5RUSmwqTR6)(sometimes).
 
