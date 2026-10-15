@@ -2,7 +2,7 @@
 - I'm [Fiifi](https://fiifidawson.com/).
 - Wrapping up [Humani-T](https://chitchat-ui.vercel.app/) for [CHITCHAT](https://www.essentialtech.ch/projects/hac4).
 
-I [cook](https://photos.app.goo.gl/B8jvdNTFvyL7KBCi8) and [touch grass](https://photos.app.goo.gl/NYMt7uA5RUSmwqTR6)(sometimes).
+I [cook](https://photos.app.goo.gl/B8jvdNTFvyL7KBCi8) and [touch grass](https://photos.app.goo.gl/NYMt7uA5RUSmwqTR6) (sometimes).
 
 ## where to find me...
 - **Website**: [fiifidawson.com](https://fiifidawson.com/)
